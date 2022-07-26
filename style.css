@@ -1,0 +1,28 @@
+body {
+    background-color:lightblue;
+    font-family: serif;
+}
+
+h1 {
+   font-family:sans-serif;
+}
+
+h2 {
+    font-family:sans-serif;
+}
+
+
+p {
+    text-align:left;
+}
+
+#homeText {
+    text-align:center;
+    margin:auto;
+    padding:100px;
+}
+
+.example {
+    width: 540px;
+    height: 360px;
+}
